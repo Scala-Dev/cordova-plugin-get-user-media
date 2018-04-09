@@ -5,7 +5,7 @@
     version="0.0.1">
 
     <name>getUserMedia</name>
-    <repo>https://github.com/ScalaInc/cordova-plugin-get-user-media.git</repo>
+    <repo>https://github.com/Scala-Dev/cordova-plugin-get-user-media.git</repo>
     <keywords>webview,ntlm,auth,android</keywords>
     <license>MIT</license>
     <author>Scala Inc</author>
